@@ -1,0 +1,174 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+  }
+  .header-banner{
+    background-color:rgba(240,237,255,0.35);
+    padding:0 0 0 0;
+  }
+  .backg {
+    padding:0 0 0 0 !important;
+  }
+  .row{
+    display:table;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    width:100%;
+  }
+  .cell{
+    width:8%;
+    display:table-cell;
+    height:75px;
+  }
+  #id884{
+    width:56.91%;
+    left:auto;
+    margin:0 0 0 0;
+    color:#000000;
+  }
+  #inhbk{
+    width:70%;
+  }
+  #i44gy{
+    color:black;
+    width:307px;
+    height:205px;
+    float:right;
+    position:absolute;
+    right:7%;
+  }
+  #iff1jy{
+    float:right;
+  }
+  #iff1jy-2{
+    float:left;
+    position:absolute;
+    right:10%;
+  }
+  #irr3tu{
+    padding:20px 10% 30px 10%;
+    color:#000000;
+    background-color:rgba(0,0,0,0.59);
+  }
+  #ifdof{
+    padding:20px 10% 30px 10%;
+    background-color:#ffffff;
+    color:#000000;
+  }
+
+  #ifdof, #iixg6g{
+    min-height: 250px;
+  }
+  #iwln3{
+    color:#000000;
+  }
+  #ip52g{
+    text-align:justify;
+  }
+  #i7lx6m{
+    width:56.91%;
+    left:auto;
+    margin:0 0 0 0;
+  }
+  #i0uzmc{
+    color:black;
+    width:307px;
+    height:205px;
+    float:none;
+    position:absolute;
+    right:737.391px;
+    left:7%;
+  }
+  #i6r949{
+    width:35.1%;
+  }
+  #iixg6g{
+    padding:20px 10% 65px 10%;
+    background-color:rgba(0,0,0,0.59);
+  }
+  #i9lgz7{
+    text-align:justify;
+  }
+  #iafeav{
+    font-size:12.0pt;
+    line-height:107%;
+  }
+  #i1rc88{
+    color:#000000;
+  }
+  #i9ys3s{
+    width:56.91%;
+    left:auto;
+    margin:0 0 0 0;
+    color:#000000;
+  }
+  #irr3tu{
+    padding:20px 10% 30px 10%;
+    color:#000000;
+    background-color:rgba(255,255,255,0.58);
+  }
+  #iz9m6h{
+    white-space:pre;
+  }
+  #i5crm4{
+    color:rgb(198, 198, 198);
+    white-space:pre;
+  }
+  #i9pw57{
+    color:rgb(198, 198, 198);
+  }
+  #i2j132-2-3{
+    text-align:justify;
+  }
+  #irhgdv{
+    white-space:pre;
+  }
+  #ibbb9p{
+    white-space:pre;
+  }
+  #ilckea{
+    white-space:pre;
+  }
+  #ic94vu{
+    white-space:pre;
+    color:rgb(198, 198, 198);
+  }
+  #izti7v{
+    white-space:pre;
+  }
+  #iq8hd9{
+    white-space:pre;
+  }
+  #ibr9zl{
+    white-space:pre;
+  }
+  #iq0y31{
+    color:#000000;
+  }
+  #i9m9kq{
+    color:rgb(198, 198, 198);
+  }
+  #i698gp{
+    color:rgb(198, 198, 198);
+  }
+  .lead-title{
+    text-align:center;
+    margin:0 0 30px 0 !important;
+  }
+  @media (max-width: 768px){
+    .cell{
+      width:100%;
+      display:block;
+    }
+  }
+  #ib6dw{
+    bottom:auto;
+    margin:10% 0 20px 0;
+  }
+  .dacontainer{
+    min-height:380px;
+  }
